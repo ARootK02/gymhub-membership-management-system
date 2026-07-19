@@ -1,0 +1,46 @@
+# Java compiled files
+*.class
+out/
+bin/
+target/
+
+# Java package files
+*.jar
+*.war
+*.ear
+
+# Build tools
+.gradle/
+build/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+~$*
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
